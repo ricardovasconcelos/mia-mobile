@@ -2,14 +2,14 @@
     <img src="https://i.imgur.com/fs454Au.png" width="300" alt="Mia" />
 </p>
 <p align="center">
-    <img src="https://i.imgur.com/qnWUI1m.png" alt="Mia" />
-    <img src="https://i.imgur.com/BzWtLQj.png" alt="Mia" />
-    <img src="https://i.imgur.com/B54le8C.png" alt="Mia" />
-    <img src="https://i.imgur.com/4IXvikC.png" alt="Mia" />
-    <img src="https://i.imgur.com/y87x3Pu.png" alt="Mia" />
-    <img src="https://i.imgur.com/iEuVbq3.png" alt="Mia" />
-    <img src="https://i.imgur.com/ymzQ9JR.png" alt="Mia" />
-    <img src="https://i.imgur.com/PbKkTyv.png" alt="Mia" />
+    <img src="https://i.imgur.com/qnWUI1m.png" alt="Mia" height="600"/>
+    <img src="https://i.imgur.com/BzWtLQj.png" alt="Mia" height="600"/>
+    <img src="https://i.imgur.com/B54le8C.png" alt="Mia" height="600"/>
+    <img src="https://i.imgur.com/4IXvikC.png" alt="Mia" height="600"/>
+    <img src="https://i.imgur.com/y87x3Pu.png" alt="Mia" height="600"/>
+    <img src="https://i.imgur.com/iEuVbq3.png" alt="Mia" height="600"/>
+    <img src="https://i.imgur.com/ymzQ9JR.png" alt="Mia" height="600"/>
+    <img src="https://i.imgur.com/PbKkTyv.png" alt="Mia" height="600"/>
 </p>
 
 </br>
