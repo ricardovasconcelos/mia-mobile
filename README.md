@@ -1,17 +1,8 @@
 <p align="center">
     <img src="https://i.imgur.com/fs454Au.png" width="300" alt="Mia" />
 </p>
-<p align="center">
-    <img src="https://i.imgur.com/qnWUI1m.png" alt="Mia" height="600"/>
-    <img src="https://i.imgur.com/BzWtLQj.png" alt="Mia" height="600"/>
-    <img src="https://i.imgur.com/B54le8C.png" alt="Mia" height="600"/>
-    <img src="https://i.imgur.com/4IXvikC.png" alt="Mia" height="600"/>
-    <img src="https://i.imgur.com/y87x3Pu.png" alt="Mia" height="600"/>
-    <img src="https://i.imgur.com/iEuVbq3.png" alt="Mia" height="600"/>
-    <img src="https://i.imgur.com/ymzQ9JR.png" alt="Mia" height="600"/>
-    <img src="https://i.imgur.com/PbKkTyv.png" alt="Mia" height="600"/>
-</p>
 
+[![MIA-VIDEO](https://user-images.githubusercontent.com/61828136/175302604-fc1937d9-1186-4465-8baa-d3f9316ed07c.png)](https://www.youtube.com/watch?v=hjxnCwXzjvw)
 </br>
 
 # About this Project
